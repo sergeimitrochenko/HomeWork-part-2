@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Welcome , mentor Zahar !");
-        System.out.println("Задание 1");
+        System.out.println("Задача 1");
 
         int i = 27897;
         System.out.println("Значение переменной i с типом int равно " + i);
@@ -16,7 +16,7 @@ public class Main {
         double d = 27.12;
         System.out.println("Значение переменной d с типом double равно " + d);
 
-        System.out.println("Задание 2");
+        System.out.println("Задача 2");
 
         float a = 27.12f;
         System.out.println("Значение переменной a с типом float равно " + a);
@@ -33,7 +33,7 @@ public class Main {
         byte q = 67;
         System.out.println("Значение переменной q с типом byte равно " + q);
 
-        System.out.println("Задание 3");
+        System.out.println("Задача 3");
         byte lp = 23;
         System.out.println("У Людмилы Павловны " + lp + " ученика");
         byte as = 27;
@@ -48,7 +48,7 @@ public class Main {
         System.out.println("2. " + total + "/" + uch + "=" + paper + " листов");
         System.out.println("На каждого ученика рассчитано " + paper + " листов бумаги");
 
-        System.out.println("Задание 4");
+        System.out.println("Задача 4");
 
         byte performanceIn2Minutes = 16;
         byte performanceIn1Minutes = (byte) (performanceIn2Minutes / 2);
@@ -67,7 +67,7 @@ public class Main {
         int productivityMonth = productivityday * month;
         System.out.println("За месяц станок произвел " + productivityMonth + " штук бутылок");
 
-        System.out.println("Задание 5");
+        System.out.println("Задача 5");
         byte totalcans = 120;
         byte white2 = 2;
         byte brown4 = 4;
